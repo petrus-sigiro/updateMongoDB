@@ -7,7 +7,7 @@ mongoose.connect('mongodb+srv://test:test@cluster0-2emxt.mongodb.net/test?retryW
     if(err){
         console.log(err)
     }else{
-        console.log("sudah")
+        console.log("Sudah Bisa Jalan")
     }
 })
 
